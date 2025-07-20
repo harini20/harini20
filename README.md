@@ -5,6 +5,7 @@
 
 ---
 ## ☁️ What I’m Doing Now:
+- 🛍️ Developing a data-driven internal dashboard for e-commerce — analyzing orders, revenue, and customer behavior using Python, SQL, REST APIs, and simulated system logs.
 - 🧪 Working on AWS Labs – Infra as Code, CI/CD, IAM, and serverless pipelines.
 - 📄 Building the **AWS Cloud Resume Challenge** – end-to-end serverless resume with CI/CD and DynamoDB.
 - 📦 Designing a **Notion + GitHub-based product tracker** — integrating feature planning, technical specs, and sprint cycles.
