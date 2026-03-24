@@ -1,4 +1,4 @@
-# 👋 *AI & NLP Practitioner. Learning with LLMs, agents, and RAG — every week.*
+# 👋 *AI & NLP Practitioner. Learning with LLMs, agents, and RAG*
 
 
 ---
